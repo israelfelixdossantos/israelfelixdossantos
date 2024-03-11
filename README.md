@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Analista de Suporte Tecnico
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python
 - 😄 Pronouns: he/him
   
 <div>
