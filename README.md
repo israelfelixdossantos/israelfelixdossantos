@@ -4,5 +4,8 @@
 - 🔭 I’m currently working on Analista de Suporte Tecnico
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 😄 Pronouns: he/him
+  
+<div>
+  <a href="https://github.com/israelfelixdossantos" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=israelfelixdossantos&show_icons=true&theme=gruvbox"/></a>
+</div>
 
-<a href="https://www.linkedin.com/in/israel-felix-dos-santos-980769111/" target="_blank">teste</a>
